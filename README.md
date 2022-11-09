@@ -1,0 +1,2 @@
+# RazorRenderPackageSample
+This repository contains an example rendering a Razor template inside Azure Functions v4 with .NET 6.0, using the NuGet package [Razor.Templating.Core](https://www.nuget.org/packages/Razor.Templating.Core/) by [@soundaranbu](https://github.com/soundaranbu).
